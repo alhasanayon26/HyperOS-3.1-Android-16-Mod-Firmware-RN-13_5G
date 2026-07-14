@@ -38,6 +38,8 @@ The goal of this project is not to completely redesign HyperOS, but to improve t
 - Better overall system responsiveness
 - Various UI improvements
 - Various under-the-hood optimizations
+- Hyper Island in AOD ( sometimes doesn't work properly ) | fixed SystemUI Plugin provided, download that.
+- Explore.
 
 ---
 
