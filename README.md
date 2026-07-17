@@ -52,7 +52,7 @@ Compared to the original Project EclipseOS release, this build includes addition
 - Lower memory usage
 - Improved app launch speed
 - Better system smoothness
-- Reduced system overhead
+- Reduced system overheat
 - Cleaner stock-like experience
 - Better battery optimization
 - Additional framework tuning
@@ -68,10 +68,6 @@ Compared to the original Project EclipseOS release, this build includes addition
 - Android will optimize applications in the background after installation.
 - Give the ROM approximately **24 hours** to fully settle before judging battery life or performance.
 - If SystemUI restarts the first time you open the Control Center, simply pull it down again. This only happens once.
-- To customize the Control Center:
-  1. Open Control Center.
-  2. Tap **Edit**.
-  3. Add the **Mod Menu** toggle.
 
 ---
 
