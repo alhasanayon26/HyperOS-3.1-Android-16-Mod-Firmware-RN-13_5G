@@ -67,7 +67,6 @@ Compared to the original Project EclipseOS release, this build includes addition
 - The device may feel slow or warm during the initial setup. This is completely normal.
 - Android will optimize applications in the background after installation.
 - Give the ROM approximately **24 hours** to fully settle before judging battery life or performance.
-- If SystemUI restarts the first time you open the Control Center, simply pull it down again. This only happens once.
 
 ---
 
