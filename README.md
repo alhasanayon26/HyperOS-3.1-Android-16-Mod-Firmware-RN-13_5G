@@ -1,92 +1,218 @@
-# Gold Images HyperOS 3.1 (Unofficial) | Android 16
-### Redmi Note 13 5G (Gold / Malachite)
+# HyperOS 3.1 Android 16 Unofficial for Redmi Note 13 5G
 
-> A lightweight, optimized, and highly customized HyperOS 3.1 Android 16 ROM based on **Project EclipseOS**.
+## Gold Edition
+**Build:** `Gold_images_[Malachite-Base]_OS3.0.304.0.CN.C07_16.0.zip`
 
-Gold Images HyperOS 3.1 is an unofficial custom ROM built for the **Redmi Note 13 5G (Gold/Malachite)**. It is based on the excellent **Project EclipseOS** by **Harsh10R**, which has been rebuilt, optimized, debloated, and further customized to provide a smoother, cleaner, and more lightweight experience.
+A lightweight, optimized, and customized HyperOS 3.1 Android 16 ROM for the Redmi Note 13 5G based on the official China (Malachite) firmware.
 
-The goal of this project is not to completely redesign HyperOS, but to improve the stock experience by removing unnecessary components, optimizing system performance, and enhancing usability while keeping the ROM stable for daily use.
-
-Download here- https://github.com/alhasanayon26/HyperOS-3-Android-16-Mod-Firmware-RN-13_5G#-download
+This ROM is a customized edition of **Project EclipseOS** by **Harsh10R**. While the original ROM was developed by him, I have rebuilt and customized it with additional optimizations, debloating, smoother performance, and a cleaner stock HyperOS experience for daily use.
 
 ---
 
-# ✨ Features
+# ❤️ Credits
 
-- Based on HyperOS 3.1 Android 16 China ROM
-- Lightweight and debloated system
-- Google Mobile Services (GMS) pre-installed
-- Google Play Store, Google Services, and Google Apps ready out of the box
-- HyperAI integration
-- Circle to Search enabled
-- Google Assistant enabled
-- Dynamic Shots enabled
-- Enhanced Control Center with customization support
+Huge thanks and full credit to **Harsh10R** for creating the original **Project EclipseOS**.
+
+This project is based on his amazing work and would not exist without it.
+
+**Original Project**
+- **Developer:** Harsh10R
+- **ROM:** Project EclipseOS
+- **Telegram:** https://t.me/AboutHarshZXR
+- **Original ROM Post:** https://telegram.me/ProjectEclipseOS/235
+
+This release is my personal customized edition with various optimizations and enhancements.
+
+---
+
+# 📱 ROM Information
+
+| Item | Details |
+|------|----------|
+| Device | Redmi Note 13 5G |
+| Android Version | Android 16 |
+| HyperOS Version | HyperOS 3.1 |
+| Base | Official China ROM (Malachite) |
+| Build Type | Port ROM |
+| Status | Unofficial |
+| Root | Not Included |
+
+---
+
+# ✨ What's Different From Project EclipseOS?
+
+This edition has been rebuilt with the goal of providing a cleaner, smoother, and lighter experience while keeping the stock HyperOS look.
+
+### Improvements
+
+- More lightweight
+- Lite blur os SS blur included
+- Better debloated
+- Improved smoothness
+- Better RAM management
+- Reduced background services
+- Faster app launching
+- Improved system responsiveness
+- Better thermal behavior
+- Cleaner user experience
+- Optimized for daily usage
+- Maintains the stock HyperOS design
+
+---
+
+# 🚀 Features
+
+## Google Services
+
+Google services are pre-installed.
+
+Includes:
+
+- Google Play Store
+- Google Play Services
+- Google App
+- Google Assistant
+- Circle to Search
+
+No additional GMS installation is required.
+
+---
+
+## HyperOS Features
+
 - New Package Installer UI
-- New Settings enhancements
-- Kaorios Toolbox included
-- Play Integrity passes through Kaorios Toolbox
-- Improved RAM management
-- Better thermal configuration
-- Dex2Oat optimization for smoother performance
-- Increased notification count to 7
-- VoLTE & VoNR icons enabled
-- Fixed 5G icon showing while mobile data is disabled
-- Updated device information page colors
-- Disabled Signature Verification
-- Disabled FLAG_SECURE
-- CN notification fixes
-- Improved framework performance
-- Better overall system responsiveness
-- Various UI improvements
-- Various under-the-hood optimizations
-- Hyper Island in AOD ( sometimes doesn't work properly ) | Download fixed SystemUI Plugin- https://memeosupdates.com/apps/miui.systemui.plugin
-- Explore.
+- Dynamic Shots
+- Updated Device Information Page
+- VoLTE Icon
+- VoNR Icon
+- HyperOS Launcher Improvements
 
 ---
 
-# 🚀 Additional Optimizations in Gold Images
+## Performance Optimizations
 
-Compared to the original Project EclipseOS release, this build includes additional custom optimizations such as:
-
-- More aggressive debloating
+- Better application compilation
+- Faster animations
+- Improved multitasking
+- Better memory management
 - Reduced unnecessary background services
-- Lower memory usage
-- Improved app launch speed
-- Better system smoothness
-- Reduced system overheat
-- Cleaner stock-like experience
-- Better battery optimization
-- Additional framework tuning
-- Extra system cleanup
-- Optimized for everyday usage
+- Faster system response
+- Better scrolling smoothness
 
 ---
 
-# 📌 Important Notes
+## System Enhancements
 
-- The first boot may take several minutes.
-- The device may feel slow or warm during the initial setup. This is completely normal.
-- Android will optimize applications in the background after installation.
-- Give the ROM approximately **24 hours** to fully settle before judging battery life or performance.
+- Google services enabled by default
+- CN notification issues fixed
+- Signature verification disabled
+- FLAG_SECURE disabled
+- Latest Kaorios Toolbox integrated
+- Integrity Fix included
+- Better spoofing support
+- Optimized framework
+- Updated system applications
 
 ---
 
-# 📥 Installation Guide
+## Included Modified Apps
+
+- HyperOS Launcher
+- Themes
+- App Vault
+- Package Installer
+- System Framework
+- Various optimized system apps
+
+---
+
+# ⚙️ First Boot Notes
+
+The first boot takes longer than usual.
+
+Please keep these points in mind:
+
+- Device may feel warm during the first boot.
+- Initial lag is completely normal.
+- Android is compiling applications and optimizing the system in the background.
+- Performance will improve after the ROM settles.
+
+For the best experience:
+
+- Charge the device for at least one hour after setup.
+- Give the ROM approximately one day to fully settle.
+
+---
+
+# 🐞 Known Issues
+
+Current Known Bugs:
+
+- NFC may not work properly on some variants.
+
+If you discover any other bugs:
+
+- Report them with proper logs.
+- Include a screen recording whenever possible.
+- Clearly explain how to reproduce the issue.
+
+---
+
+# 📝 Important Notes
+
+- Keep battery above **50%** before flashing.
+- Use the original USB cable whenever possible.
+- Do not modify the ROM files before flashing.
+- Extract the ROM to a directory without spaces in its name.
+- Multi-language support is provided separately as a flashable module.
+- Integrity passes using the included Kaorios Toolbox.
+
+---
+
+# 💻 Flashing Guide (Fastboot)
 
 ## Requirements
 
 - Unlocked Bootloader
+- Windows/Linux/macOS
+- USB Cable
 - Battery above 50%
-- Original USB cable recommended
-- Windows, Linux, or macOS
 
-### Flashing Steps
+---
 
-1. Boot your device into **Fastboot Mode**.
-2. Connect your phone to your PC.
-3. Extract the ROM package.
-4. Run the flashing script.
+## Installation
+
+### Step 1
+
+Download the ROM.
+
+### Step 2
+
+Extract the ROM to your PC.
+
+**Correct Example**
+
+```
+C:\Gold_ROM\
+```
+
+**Incorrect Example**
+
+```
+C:\My ROM Files\
+```
+
+### Step 3
+
+Boot your phone into **Fastboot Mode**.
+
+### Step 4
+
+Connect the device to your PC.
+
+### Step 5
+
+Flash using:
 
 **Windows**
 
@@ -94,74 +220,45 @@ Compared to the original Project EclipseOS release, this build includes addition
 flash_all.bat
 ```
 
-**Linux/macOS**
+**Linux / macOS**
 
 ```
 flash_all.sh
 ```
 
-5. Wait patiently until the flashing process finishes.
-6. The device will reboot automatically.
-7. The first boot may take several minutes.
+### Step 6
+
+Wait until flashing completes.
+
+### Step 7
+
+The device will reboot automatically.
+
+### Step 8
+
+Allow the ROM enough time to finish the initial optimization.
 
 ---
 
-# ⚠️ Known Issues
+# 📦 Flashing Using Xiaomi Mi Flash Tool
 
-- NFC may not work on some variants.
-- If you discover any other bugs, please report them with proper logs and screen recordings.
-
----
-
-# 💡 Recommendations
-
-- Charge your device for at least one hour after flashing.
-- Allow the ROM to settle for approximately one day.
-- If you experience unusual heating after several days, you may remove unnecessary MMI applications through ADB if required.
-- Always read the flashing instructions carefully before proceeding.
-
----
-
-# 🙏 Credits
-
-## Original ROM Base
-
-**Project EclipseOS**
-
-Developed by **Harsh10R**
-
-Telegram:
-https://t.me/AboutHarshZXR
-
-Project EclipseOS Channel:
-https://telegram.me/ProjectEclipseOS
-
-Original Release:
-https://telegram.me/ProjectEclipseOS/235
-
-Special thanks to **Harsh10R** for creating Project EclipseOS and making this project possible.
+1. Install Xiaomi Mi Flash Tool.
+2. Extract the ROM.
+3. Open Mi Flash Tool.
+4. Go to **Configuration**.
+5. Clear all **Checkpoint**.
+6. Select the extracted ROM folder.
+7. Choose **Clean All** from bottom.
+8. Connect the phone in Fastboot Mode.
+9. Click **Refresh**.
+10. Select your device.
+11. Click **Flash**.
+12. Wait until the process finishes, it will take around 250 seconds.
+13. The device will reboot automatically.
 
 ---
 
-# 👨‍💻 My Contribution
-
-Gold Images HyperOS 3.1 is **not a ROM built completely from scratch**.
-
-This project is a customized and optimized version of **Project EclipseOS**, where I focused on creating a lighter, cleaner, and smoother experience through additional modifications, including:
-
-- Additional debloating
-- Performance optimizations
-- System cleanup
-- UI refinements
-- Framework tuning
-- Better responsiveness
-- Better daily usability
-- Extra customization
-- Stock-like user experience
-
----
-
-# 📦 Download
+# 📥 Download
 
 **Google Drive**
 
@@ -171,10 +268,16 @@ https://drive.usercontent.google.com/download?id=1DBNK2fpk0mB4VnpWQxvVUmwV-09SlJ
 
 # ⚠️ Disclaimer
 
-- Flash this ROM at your own risk.
-- I am not responsible for any damage, data loss, or unexpected issues caused by improper flashing.
-- Always create a complete backup of your important data before installing custom software.
+This ROM is provided **AS IS**.
+
+Flashing custom ROMs always carries a risk. I am not responsible for any damage, data loss, or unexpected issues caused by improper flashing or modification. Please read the installation instructions carefully, ensure your bootloader is unlocked, and create a full backup before proceeding.
 
 ---
 
-⭐ If you enjoy this project, consider giving the repository a **Star** on GitHub. Your support motivates me to continue improving and maintaining future projects.
+# ❤️ Support
+
+If you enjoy this project, consider starring the repository and sharing your feedback.
+
+Bug reports, suggestions, and improvements are always welcome.
+
+Enjoy the ROM! 🚀
